@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/whitehatjr/angryBirdsStage2
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = test
+	merge = refs/heads/master
+[remote "test"]
+	url = https://github.com/SPRIETO2020/Class26.git
+	fetch = +refs/heads/*:refs/remotes/test/*

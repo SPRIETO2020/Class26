@@ -1,2 +1,2 @@
-# Class26
-git and github, gitbash and git command
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
